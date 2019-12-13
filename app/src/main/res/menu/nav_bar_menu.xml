@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_bar_fixers"
+        android:icon="@drawable/ic_fixers"
+        android:title="@string/fixers" />
+
+    <item
+        android:id="@+id/nav_bar_sellers"
+        android:icon="@drawable/ic_store"
+        android:title="@string/sellers" />
+
+    <item
+        android:id="@+id/nav_bar_finishing"
+        android:icon="@drawable/ic_brush"
+        android:title="@string/finishing" />
+
+    <item
+        android:id="@+id/nav_bar_profile"
+        android:icon="@drawable/ic_person_black_24dp"
+        android:title="@string/profile" />
+
+    <item
+        android:id="@+id/nav_bar_more"
+        android:icon="@drawable/ic_menu_black_24dp"
+        android:title="@string/more" />
+
+</menu>
